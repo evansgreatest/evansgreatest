@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm passionate about technology, frontend, backend
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evansgreatest&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=evansgreatest&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 📫 How to Reach Me:
 - Email: abayeevans@gmail.com
 
