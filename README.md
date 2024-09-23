@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Evans!
 
-Welcome to my GitHub profile! I'm passionate about technology, frontend, backend development, and API design. Here's a little about me:
+Welcome to my GitHub profile! I'm passionate about technology, frontend and backend development. Here's a little about me:
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently using **Next.js 14**, **Prisma**, and **Postgres** to build a web applications.
