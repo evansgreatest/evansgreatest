@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm passionate about technology, frontend, backend
 [![](https://visitcount.itsvg.in/api?id=evansgreatest&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/evansgreatest)
 - Email: abayeevans@gmail.com
 
 While most of my repositories are private, feel free to connect with me to collaborate or discuss any of my work. I'm always open to sharing and learning from others!
