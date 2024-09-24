@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, frontend and back
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evansgreatest&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📫 How to Reach Me:
