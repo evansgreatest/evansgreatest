@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm passionate about technology, frontend and backend development. Here's a little about me:
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently using **Next.js 14**, **Prisma**, and **Postgres** to build a web applications.
 - 🔥 I enjoy solving problems and creating solutions.
   
 # 💻 Tech Stack:
